@@ -13,7 +13,7 @@ This is a tenzies game app that I made while taking course on Scrimba.
 
 ## Overview
 ### Links
-- 
+- [https://ahura-scrimba-tenzies.netlify.app/](https://ahura-scrimba-tenzies.netlify.app/)
 
 ## My process
 ### Built with
