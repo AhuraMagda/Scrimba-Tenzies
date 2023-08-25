@@ -1,8 +1,28 @@
-# React + Vite
+# Scrimba Tenzies Game
+This is a tenzies game app that I made while taking course on Scrimba.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I've learned](#what-i've-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+### Links
+- 
+
+## My process
+### Built with
+- JavaScript
+- React
+- Vite
+
+### Useful resources
+- [Scrimba](https://scrimba.com/) - a learning platform
+
+## Author
+- Github (https://github.com/AhuraMagda)
