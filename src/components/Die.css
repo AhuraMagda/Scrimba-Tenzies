@@ -1,0 +1,32 @@
+
+
+
+.die {
+    align-items: center;
+    background-color: white;
+    border-radius: 4px;
+    display: flex;
+    height: 35px;
+    width: 35px;
+    padding: 5px;
+    justify-content: center;
+    box-shadow: -1px 1px 3px 1px rgb(211, 211, 211);
+}
+
+
+.die h2 {
+    font-size: 1.5rem;
+}
+
+
+.die-clicked {
+    align-items: center;
+    background-color: #59E391;
+    border-radius: 4px;
+    display: flex;
+    height: 35px;
+    width: 35px;
+    padding: 5px;
+    justify-content: center;
+    box-shadow: -1px 1px 3px 1px rgb(211, 211, 211);
+}

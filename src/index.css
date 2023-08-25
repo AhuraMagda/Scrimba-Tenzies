@@ -1,0 +1,15 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  align-items: center;
+  background-color: #0B2434;
+  display: flex;
+  font-family: 'Karla', sans-serif;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
